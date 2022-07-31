@@ -1,25 +1,20 @@
 # TUT509-
 509秘密基地
-# 别像弱智一样提问
+#提问的方式， 别像弱智一样提问
 
 Stop-Ask-Questions-The-Stupid-Ways
 
-## 短域名服务
-
-+ https://git.io/how-to-ask
-+ https://git.io/asking-question
-+ https://git.io/stop-stupid
 
 
 ## 你真的准备好了吗？
+![you-are-not-prepared](https://user-images.githubusercontent.com/89187533/182006322-a194cd64-ba5f-4949-a610-5e46b83bb116.png)
 
-![you-are-not-prepared.png](/images/you-are-not-prepared.png)
 
 > 感谢群友 `for you` 提供
 
 ## 避免 xy-problem
 
-+ 参考地址: http://xyproblem.info/
+
 
 `XY Problem` 表示
 1. 提问者想要解决 **原问题 X** ，且觉得解决了 **引申问题 Y** 就能解决 **X** 问题
@@ -51,7 +46,8 @@ Stop-Ask-Questions-The-Stupid-Ways
 谢谢
 ```
 
-![manners-maketh-man.jpg](/images/manners-maketh-man-small.png)
+![manners-maketh-man-small](https://user-images.githubusercontent.com/89187533/182006330-08dbea61-dde3-4d78-9815-4d761a8e2e94.png)
+
 
 
 ## 学会描述问题
@@ -76,9 +72,9 @@ Stop-Ask-Questions-The-Stupid-Ways
 
 ### 学会什么时候贴图
 
-![what-time-to-use-image.png](/images/what-time-to-use-image.png)
+![what-time-to-use-image](https://user-images.githubusercontent.com/89187533/182006358-5f1f5415-8c16-4fc8-89e4-171533ece0b5.png)
 
-像这种，IM 自动转义表情，贴出来的问题全是表情。
+像这种，社交媒体自动转义表情，贴出来的问题全是表情。
 
 ### 学会什么时候要圈出重点
 
@@ -87,7 +83,8 @@ Stop-Ask-Questions-The-Stupid-Ways
 在工作中， 你`@`的人可能会多问一句什么情况。 但是在 IM 聊天群里面，就没有这么好运气了。
 
 
-![stupid_02-conversation.png](/images/stupid_questions/stupid_02-conversation.png)
+![stupid_02-conversation](https://user-images.githubusercontent.com/89187533/182006391-0fd4cf8d-4982-4466-baf9-5b5ba00ffa5a.png)
+
 
 如下很难吗？
 
@@ -96,21 +93,26 @@ Stop-Ask-Questions-The-Stupid-Ways
 环境是: 环境是什么。
 ```
 
-![stupid_02-no-target.png](/images/stupid_questions/stupid_02-no-target.png)
+![stupid_02-no-target](https://user-images.githubusercontent.com/89187533/182006395-833f68a4-8c64-4b7a-8d4f-e355d3efd9ad.png)
+
 
 ### 学会什么时候贴文字
 
 
 ## 什么是弱智一样的提问
 
-![stupid_questions.png](/images/stupid_questions/stupid_questions.png)
+![stupid_questions](https://user-images.githubusercontent.com/89187533/182006398-256dc759-671a-4d84-9692-df1e5a43ee93.png)
+
 
 ## 萌新滚粗
 
-![baiduit.jpg](/images/baiduit.jpg)
+![baiduit](https://user-images.githubusercontent.com/89187533/182006405-2ca80c93-eb32-41b4-945f-2140e910cd27.jpg)
+
 
 | 什么鬼？    | 咋回事？  | 怎么办？    | 救命啊！！       |
 |-------------|-------------|-------------|------------------|
 | 自己 google | 自己 google | 自己 google | 自己 google 了吗 |
 
-![googleit.png](/images/googleit.png)
+![googleit](https://user-images.githubusercontent.com/89187533/182006408-3f264efc-3617-4f7d-9c8b-c8ed30403a33.png)
+
+
