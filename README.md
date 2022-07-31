@@ -81,7 +81,7 @@ Stop-Ask-Questions-The-Stupid-Ways
 
 千万不要认为别人的频率和你是同步的，然后像这样扔出一张图一个表情就了事了。
 
-在工作中， 你`@`的人可能会多问一句什么情况。 但是在 IM 聊天群里面，就没有这么好运气了。
+在工作中， 你`@`的人可能会多问一句什么情况。 但是在和队友或者学长沟通时，就没有这么好运气了。
 
 
 ![stupid_02-conversation](https://user-images.githubusercontent.com/89187533/182006391-0fd4cf8d-4982-4466-baf9-5b5ba00ffa5a.png)
@@ -115,5 +115,6 @@ Stop-Ask-Questions-The-Stupid-Ways
 | 自己 google | 自己 google | 自己 google | 自己 google 了吗 |
 
 ![googleit](https://user-images.githubusercontent.com/89187533/182006408-3f264efc-3617-4f7d-9c8b-c8ed30403a33.png)
+
 
 
