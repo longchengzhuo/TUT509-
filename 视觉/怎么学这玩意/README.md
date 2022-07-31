@@ -6,11 +6,8 @@
 
 
 
-## 你真的准备好了吗？
-![you-are-not-prepared](https://user-images.githubusercontent.com/89187533/182006322-a194cd64-ba5f-4949-a610-5e46b83bb116.png)
 
-
-1.编程语言：python或者c++
+## 编程语言：python或者c++
 2022赛季采用纯python编写视觉程序，由于本人c++水平较拉，相关问题请转问fcx（嘿嘿）
 
 语言本身是知识基础，其次是需要额外关注的：
@@ -18,8 +15,7 @@
 🔸多文件之间的链接
 🔸多线程的用法（用于缩小执行时间）
 … … … … … … … …
-
-2.所需工具：opencv（传统），pytorch、tensorflow（跑神经网络）
+## 所需工具：opencv（传统），pytorch、tensorflow（跑神经网络）
 
 opencv必备知识：
 
