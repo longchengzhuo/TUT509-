@@ -1,6 +1,10 @@
 # TUT509-
 509秘密基地
-#提问的方式， 别像弱智一样提问
+
+
+
+
+## 别像弱智一样提问
 
 Stop-Ask-Questions-The-Stupid-Ways
 
@@ -10,10 +14,7 @@ Stop-Ask-Questions-The-Stupid-Ways
 ![you-are-not-prepared](https://user-images.githubusercontent.com/89187533/182006322-a194cd64-ba5f-4949-a610-5e46b83bb116.png)
 
 
-> 感谢群友 `for you` 提供
-
 ## 避免 xy-problem
-
 
 
 `XY Problem` 表示
