@@ -515,9 +515,9 @@ def kal(positions):
     camera_coordinate = coordinate
     global last_co
     global last_camera_coordinate
-    if abs(last_camera_coordinate[0][0] - camera_coordinate[0][0]) <= 2*abs(last_co) + 200:
+    if abs(last_camera_coordinate[0][0] - camera_coordinate[0][0]) <= 2*abs(last_co) + 200: #上一次和这一次的卡尔曼返回值做一个比较，小于阈值才行。
 
-        print("camera_coordinate", camera_coordinate)
+        print("camera_coordinate", camera_coordinate)                                       #此处阈值采用动静态结合设计，last_co代表速度（动态的），200为基值（静态的）
 
         if Zc != 0:
             # 相机坐标系转图像坐标系 (Xc,Yc,Zc) --> (x, y)  下边的f改为焦距
@@ -546,7 +546,7 @@ def kal(positions):
         # kf.statePost = np.array([0, 0, 0, 0, 0, 0], np.float32)
 
     last_camera_coordinate = camera_coordinate
-    last_co = predicted[3]
+    last_co = predicted[3] #x方向上的速度乘上一个动态的时间常数
 
 
 last_co = 0
